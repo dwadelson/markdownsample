@@ -16,3 +16,5 @@ var myfunc = function() {
   return 0;
   };
 ```
+
+and now i am testing inline code ```this is inline code``` to see if it works
