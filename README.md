@@ -6,7 +6,7 @@
 * Bullet 2
 
 following matt mcullough github markdown training video https://www.youtube.com/watch?v=p8yKoPaDqiA
-```ruby
+```javascript
 
 var svg = d3.select("svg")
   .attr("width",400);
