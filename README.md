@@ -18,3 +18,6 @@ var myfunc = function() {
 ```
 
 and now i am testing inline code ```this is inline code``` to see if it works
+
+## Link to other sites
+You can do easy internet searches at [google](http://google.com).
