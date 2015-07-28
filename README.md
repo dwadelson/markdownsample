@@ -7,6 +7,12 @@
 
 following matt mcullough github markdown training video https://www.youtube.com/watch?v=p8yKoPaDqiA
 ```ruby
-puts "this is code"
-if this then that
+
+var svg = d3.select("svg")
+  .attr("width",400);
+  
+var myfunc = function() {
+  console.log("surprise!")
+  return 0;
+  };
 ```
