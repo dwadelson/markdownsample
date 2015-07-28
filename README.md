@@ -7,6 +7,7 @@
 
 following matt mcullough github markdown training video https://www.youtube.com/watch?v=p8yKoPaDqiA
 
-'''puts "this is code"
+'''
+puts "this is code"
 if this then that
 '''
